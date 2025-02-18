@@ -1,1 +1,1 @@
-# Anti-Money Laundering using GNN and LLM
+# GenAI in Blockchains
